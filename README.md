@@ -14,6 +14,13 @@ This project is an advanced, AI-powered chatbot designed to automate the initial
 ## Demo
 
 https://www.loom.com/share/ec607885fe42494db21659bad39850aa?sid=0a204df6-d819-4c71-a17e-aed47976ddda
+Check Out the demo video at loom with 2x speed
+<img width="1916" height="974" alt="image" src="https://github.com/user-attachments/assets/fc82e5d1-6b01-4885-96b7-74a2ca62e1b9" />
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/128f0b9b-1bb2-437c-8564-25daf415d0b8" />
+<img width="1915" height="965" alt="image" src="https://github.com/user-attachments/assets/2f67518a-ee21-40ea-9748-1ae48cdd8c46" />
+<img width="1912" height="980" alt="image" src="https://github.com/user-attachments/assets/d7a19be6-1fe5-425e-8cb4-f4f5d165712a" />
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/e7bc9f16-ad40-4762-9d4e-4a3541192735" />
+
 
 ## Technology Stack
 
