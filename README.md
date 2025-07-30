@@ -13,7 +13,7 @@ This project is an advanced, AI-powered chatbot designed to automate the initial
 
 ## Demo
 
-_[Here you can paste a link to your Loom or YouTube video walkthrough of the project]_
+https://www.loom.com/share/ec607885fe42494db21659bad39850aa?sid=0a204df6-d819-4c71-a17e-aed47976ddda
 
 ## Technology Stack
 
